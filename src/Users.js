@@ -4,6 +4,8 @@ const Users = [[{username:"Mirabel.Madrigal", profilepic:"../midias/Mirabel/prof
 {username:"Isabela.Madrigal", profilepic: "../midias/Isabela/profile.jpg", postpic:""}, 
 {username:"Luisa.Madrigal", profilepic: "../midias/Luisa/profile.png", postpic:"../midias/Luisa/post.gif"}],
 
+[{username:"Abuela.Madrigal", profilepic: "../midias/abuela/profile.png"}],
+
 [{username:"Bruno.Madrigal", profilepic: "../midias/suggestions/Bruno.jpg"},
 {username:"Agustin.Madrigal", profilepic: "../midias/suggestions/Agustin.jpg"},
 {username:"Antonio.Madrigal", profilepic: "../midias/suggestions/Antonio.jpg"},
