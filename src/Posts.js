@@ -1,4 +1,5 @@
 import Post from "./Post";
+import Users from "./Users"
 export default function Posts(){
     return(
         <div id="posts">

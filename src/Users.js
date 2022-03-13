@@ -10,7 +10,7 @@ const Users = [[{username:"Mirabel.Madrigal", profilepic:"../midias/Mirabel/prof
 {username:"Agustin.Madrigal", profilepic: "../midias/suggestions/Agustin.jpg"},
 {username:"Antonio.Madrigal", profilepic: "../midias/suggestions/Antonio.jpg"},
 {username:"Pico", profilepic: "../midias/suggestions/423633.png"},
-{username:"Felix.Madrigal", profilepic: "../midias/suggestions/felix.jpg"}]
+{username:"Felix.Madrigal", profilepic: "../midias/suggestions/felix.jpg"}],
 
 [{username:"Camilo.Madrigal", profilepic: "../midias/Camilo/profile.jpg"},
 {username:"Isabela.Madrigal", profilepic: "../midias/Isabela/profile.jpg"},
