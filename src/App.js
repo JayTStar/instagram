@@ -1,16 +1,17 @@
 import Topo from "./Topo"
-import Users from "./Users"
-import Post from "./Post"
+import Posts from "./Posts"
 import Sidebar from "./Sidebar";
+import Stories from "./Stories";
 
 export default function App(){
     return(
         <div>
             <Topo />
             <main>
-                {Users[0].map(usuario => <Post name={usuario.username} profile={usuario.profilepic} post={usuario.postpic} />)}
-            </main>
+                <Stories/>
+                <Posts/>
                 <Sidebar />
+            </main>
         </div>
     );
 }
