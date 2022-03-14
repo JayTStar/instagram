@@ -16,6 +16,15 @@ export default function Sidebar(props){
             <ul>
             {Users[2].map(usuario => <Suggestions name={usuario.username} profile={usuario.profilepic}/>)}
             </ul>
+
+            <p id="sobre">
+                    Sobre • Ajuda • Imprensa • API • Carreiras • Privacidade •
+                    Termos • Localizações • Contas mais relevantes • Hashtags • 
+                    Idioma
+                </p>
+                <p id="instagram">
+                    © 2021 INSTAGRAM DO FACEBOOK
+                </p>
         </div>
     </aside>
     )

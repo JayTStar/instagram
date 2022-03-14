@@ -15,6 +15,11 @@ export default function Topo(logo){
                     <ion-icon name="person-outline"></ion-icon>
                 </div>
             </div>
+            <div id="mobile">
+                <ion-icon name="logo-instagram"></ion-icon>
+                <img id="logo" src="./midias/logo.png"/>
+                <ion-icon name="paper-plane-outline"></ion-icon>
+            </div>
       </header>
     )
 }
