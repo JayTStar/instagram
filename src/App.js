@@ -7,9 +7,11 @@ export default function App(){
     return(
         <div>
             <Topo />
-            <Stories/>
-            <Posts/>
-            <Sidebar />
+            <main>
+                <Stories/>
+                <Posts/>
+                <Sidebar />
+            </main>
         </div>
     );
 }
